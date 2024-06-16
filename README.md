@@ -11,6 +11,7 @@
 SELECT DISTINCT district
 FROM address
 WHERE district  LIKE 'k%a' and district not LIKE  '% %';
+```
 
 ![Решение 1](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/1.bmp)`
 
@@ -19,11 +20,12 @@ WHERE district  LIKE 'k%a' and district not LIKE  '% %';
 
 ### Решение 2
 
-*SELECT *
-*FROM payment
-*WHERE payment_date  BETWEEN '2005-06-15' and '2005-06-19'
-*AND amount > 10;
-
+```
+SELECT *
+FROM payment
+WHERE payment_date  BETWEEN '2005-06-15' and '2005-06-19'
+AND amount > 10;
+```
 ![Решение 2](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/2.bmp)`
 
 ### Задание 3
@@ -31,11 +33,12 @@ WHERE district  LIKE 'k%a' and district not LIKE  '% %';
 
 ### Решение 3
 
+```
 SELECT *  
 FROM rental   
 ORDER by rental_date DESC 
 LIMIT 5;
-
+```
 ![Решение 3](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/3.bmp)`
 
 ### Задание 4
@@ -48,10 +51,11 @@ LIMIT 5;
 
 ### Решение 4
 
+```
 SELECT LOWER(REPLACE(first_name, 'LL', 'pp')) 
 FROM customer
 WHERE first_name LIKE 'Willie' OR first_name  LIKE 'Kelly';
-
+```
 ![Решение 4](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/4.bmp)`
 
 
