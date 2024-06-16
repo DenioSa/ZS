@@ -7,9 +7,10 @@
 
 ### Решение 1
 
-* SELECT DISTINCT district
-* FROM address
-* WHERE district  LIKE 'k%a' and district not LIKE  '% %';
+```
+SELECT DISTINCT district
+FROM address
+WHERE district  LIKE 'k%a' and district not LIKE  '% %';
 
 ![Решение 1](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/1.bmp)`
 
