@@ -19,8 +19,10 @@
 Какие сетевые службы в ней разрешены?
 Какие уязвимости обнаружены вами? (список со ссылками: достаточно трёх уязвимостей)
 Примите ответ в свободной форме.
+
 ### Решение 1
 
+#### 1. Разрешенные сетевые службы
 ```
 PORT     STATE SERVICE     VERSION
 21/tcp   open  ftp         vsftpd 2.3.4
@@ -47,8 +49,11 @@ PORT     STATE SERVICE     VERSION
 8009/tcp open  ajp13       Apache Jserv (Protocol v1.3)
 8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
 ```
+ #### 2. Обнаруженные уязвимости
 
-![Решение 1](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/1.bmp)`
+ https://www.exploit-db.com/exploits/17491
+ https://www.exploit-db.com/exploits/15449
+ https://www.exploit-db.com/exploits/16922
 
 ### Задание 2
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
