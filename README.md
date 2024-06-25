@@ -50,10 +50,11 @@ PORT     STATE SERVICE     VERSION
 8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
 ```
  #### 2. Обнаруженные уязвимости
-
+```
  https://www.exploit-db.com/exploits/17491
  https://www.exploit-db.com/exploits/15449
  https://www.exploit-db.com/exploits/16922
+```
 
 ### Задание 2
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
