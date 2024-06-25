@@ -62,8 +62,8 @@ PORT     STATE SERVICE     VERSION
 
 
 ### Задание 2
-Проведите диагностику Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
+Проведите диагностику Metasploitable в режимах SYN, FIN, Xmas, UDP.
 Запишите сеансы в Wireshark.
 
 Ответьте на следующие вопросы:
@@ -74,12 +74,5 @@ PORT     STATE SERVICE     VERSION
 
 
 ### Решение 2
-
-```
-SELECT *
-FROM payment
-WHERE payment_date  BETWEEN '2005-06-15' and '2005-06-19'
-AND amount > 10;
-```
-![Решение 2](https://github.com/DenioSa/SQL-1/blob/9177d277bc0c450eec274b9fc3e9af13ecb02aab/img/2.bmp)`
+SYN — наиболее популярный вид сканирования, указывает на перечень открытых и прослушиваемых портов.
 
