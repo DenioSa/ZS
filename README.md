@@ -55,9 +55,9 @@ PORT     STATE SERVICE     VERSION
  15449
  16922
 ```
-https://www.exploit-db.com/exploits/17491
-https://www.exploit-db.com/exploits/15449
-https://www.exploit-db.com/exploits/16922
+"https://www.exploit-db.com/exploits/17491"
+"https://www.exploit-db.com/exploits/15449"
+"https://www.exploit-db.com/exploits/16922"
 
 
 
