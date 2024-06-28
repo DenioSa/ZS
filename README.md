@@ -12,7 +12,11 @@
 
 ### Решение 1
 
+![1.1.](https://github.com/DenioSa/ZH/blob/d44da5dc638c4b1758465e20dba40c7e05976e48/img/1.1..bmp)
 
+![1.2.](https://github.com/DenioSa/ZH/blob/d44da5dc638c4b1758465e20dba40c7e05976e48/img/1.2..bmp)
+
+![1.3.](https://github.com/DenioSa/ZH/blob/d44da5dc638c4b1758465e20dba40c7e05976e48/img/1.3..bmp)
 
 
 ### Задание 2
@@ -26,3 +30,8 @@
 
 ### Решение 2
 
+![2.1.](https://github.com/DenioSa/ZH/blob/d44da5dc638c4b1758465e20dba40c7e05976e48/img/2.1..bmp)
+
+![2.2.](https://github.com/DenioSa/ZH/blob/d44da5dc638c4b1758465e20dba40c7e05976e48/img/2.2..bmp)
+
+![2.2.](https://github.com/DenioSa/ZH/blob/d44da5dc638c4b1758465e20dba40c7e05976e48/img/2.3..bmp)
